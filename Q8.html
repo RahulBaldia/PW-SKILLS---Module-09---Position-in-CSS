@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modal Example</title>
+    <link rel="stylesheet" href="Q8.css">
+</head>
+<body>
+    <div class="content">
+        <h2>Full Stack web development</h2>
+        <p>Learn complete web stack programming and coding...</p>
+        <button id="openModal">Want A Free Consultation?</button>
+    </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Want A Free Consultation?</h2>
+            <form>
+                <input type="text" id="fullName" name="fullName" placeholder="Full Name">
+                <input type="email" id="email" name="email" placeholder="Email">
+                <input type="tel" id="contactNumber" name="contactNumber" placeholder="Contact Number">
+                <textarea id="message" name="message" placeholder="Message"></textarea>
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="Q8.js"></script>
+</body>
+</html>

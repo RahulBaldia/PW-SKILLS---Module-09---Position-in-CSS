@@ -1,0 +1,45 @@
+div.blue{
+    position: absolute;
+    background-color: #289aec;
+    width: 200px;
+    height: 250px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+} 
+div.green{
+    position: absolute;
+    background-color: #1d951d;
+    width: 200px;
+    height: 250px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 60px;
+    left: 60px;
+}
+div.yellow{
+    position: absolute;
+    background-color: #ffff00;
+    width: 200px;
+    height: 250px;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    top: 100px;
+    left: 100px;
+}
+img.pok{
+    width: 200px;
+    height: 200px;
+}
+div.blue:hover{
+    z-index: 20;
+}

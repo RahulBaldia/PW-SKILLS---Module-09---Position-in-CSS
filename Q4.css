@@ -1,0 +1,64 @@
+body{
+    height: 250vh;
+    background-color: #000000;
+}
+div.fixed{
+    position: fixed;
+    background-color: #ef4c6c;
+    width: 890px;
+    height: 40px;
+    margin-left: 120px;
+    border: none;
+    border-radius: 10px;
+    font-size: 30px;
+    padding-left: 400px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+h1.head1{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 550px;
+    color: #ffffff;
+}
+img.sig{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    margin-left: 450px;
+    margin-top: 30px;
+}
+p.para1{
+    position: absolute;
+    margin-top: 530px;
+    color: #ffff;
+    margin-left: 150px;
+    font-size: 17px;
+}
+h1.det{
+    position: absolute;
+    margin-top: 630px;
+    margin-left: 150px;
+    color: #ffa500;
+}
+p.long1{
+    position: absolute;
+    margin-top: 700px;
+    color: #ffffff;
+    margin-left: 150px;
+    font-size: 17px;
+}
+p.long2{
+    position: absolute;
+    margin-top: 1200px;
+    color: #ffffff;
+    margin-left: 150px;
+    font-size: 17px;
+}
+h1.det2{
+    position: absolute;
+    margin-top: 1130px;
+    margin-left: 150px;
+    color: #ffa500;
+}

@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.button1{
+    background-color: #4413e5;
+    margin-top: 20px;
+    color: #fff;
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    border: 2px solid #4413e5;
+
+}
+h1{
+    color: #fff;
+    margin-top: 150px;
+    font-size: 40px;
+    
+}
+p{
+    color: #fff;
+    margin-top: 30px;
+}
+img.think{
+    float: right;
+    margin-right: 50px;
+}

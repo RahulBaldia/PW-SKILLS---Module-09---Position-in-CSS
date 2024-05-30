@@ -1,0 +1,122 @@
+
+img.html{
+    width: 180px;
+    height: 180px;
+    margin-top: 5px;
+    margin-left: 60px;
+}
+div.card{
+    border: 1px solid black;
+    float: left;
+    width: 320px;
+}
+p{
+    margin-left: 10px;
+}
+h1.left1{
+    color: #3493dd;
+    font-size: 20px;
+    margin-left: 5px;
+}
+h1.left1a{
+    color: #3493dd;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 45px;
+}
+h1.left2{
+    color: #3493dd;
+    font-size: 20px;
+    margin-left: 165px;
+    position: absolute;
+}
+h1.html{
+    margin-top: 50px;
+    margin-left: 210px;
+    font-size: 18px;
+    position: absolute;
+}
+h1.htm{
+    font-size: 18px;
+    margin-top: 75px;
+    margin-left: 210px;
+    position: absolute;
+}
+h1.text1{
+    font-size: 18px;
+    margin-top: 120px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.text2{
+    font-size: 18px;
+    margin-top: 160px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.pub{
+    font-size: 18px;
+    margin-top: 205px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.what{
+    font-size: 18px;
+    margin-top: 255px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.ago{
+    font-size: 18px;
+    margin-top: 290px;
+    margin-left: 165px;
+    position: absolute;
+}
+h1.h5{
+    font-size: 18px;
+    margin-top: 325px;
+    margin-left: 195px;
+    position: absolute;
+}
+h1.doc{
+    font-size: 18px;
+    margin-top: 360px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.el{
+    font-size: 18px;
+    margin-top: 396px;
+    margin-left: 170px;
+    position: absolute;
+}
+h1.web{
+    font-size: 18px;
+    margin-top: 435px;
+    margin-left: 175px;
+    position: absolute;
+}
+h1.sg{
+    font-size: 18px;
+    margin-top: 470px;
+    margin-left: 195px;
+    position: absolute;
+}
+h1.xh{
+    font-size: 18px;
+    margin-top: 505px;
+    margin-left: 190px;
+    position: absolute;
+}
+h1.yes{
+    font-size: 18px;
+    margin-top: 540px;
+    margin-left: 210px;
+    position: absolute;
+}
+h1.org{
+    font-size: 18px;
+    margin-top: 575px;
+    margin-left: 140px;
+    position: absolute;
+}

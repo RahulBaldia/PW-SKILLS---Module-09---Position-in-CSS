@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions Modal</title>
+    <link rel="stylesheet" href="Q10.css">
+</head>
+<body>
+    <div class="content">
+        <h2>Full Stack web development</h2>
+        <p>Learn complete web stack programming and coding...</p>
+        <button id="openModal">View Terms & Conditions</button>
+    </div>
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2>Terms & Conditions</h2>
+            <div class="terms-content">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga corrupti...</p>
+                <p>Provident labore aut explicabo vitae...</p>
+                <!-- Repeat or add more paragraphs as needed -->
+            </div>
+            <form>
+                <label>
+                    <input type="checkbox" id="agree" name="agree">
+                    I agree to the Terms & Conditions mentioned above
+                </label>
+                <button type="submit" id="submitBtn" disabled>Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="Q10.js"></script>
+</body>
+</html>
